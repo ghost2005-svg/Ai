@@ -1,0 +1,8 @@
+150,haris,15,A,92
+151,umar,16,B,73
+152,aliraza,17,C,60
+153,hamza,18,B,92
+154,umair,19,B,73
+155,raza,20,C,65
+156,kashif,22,A,92
+157,ali,23,D,50
